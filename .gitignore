@@ -1,3 +1,4 @@
 /data
-df_birthyear.pkl
+/preprocessed_data
+/predictions_data
 /.venv
